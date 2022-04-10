@@ -1,0 +1,62 @@
+.gallery img{
+    width: 60%;
+    padding-left: 320px;
+}
+
+.photos img{
+    height: 10cm;
+    padding-left: 70px;
+}
+
+h1{
+    font-family: Impact, fantasy;
+    color: rgba(127, 151, 71, 0.979);
+    text-align: center;
+    font-size: xx-large;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: left;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: rgba(127, 151, 71, 0.979);
+    padding-top: 12px;
+}
+
+#menu a{
+    color:#ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18;
+    text-decoration:none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+     color: rgba(255, 227, 151, 0.979);
+}
+
+body{
+    background-color: rgba(255, 227, 151, 0.979) ;
+}
+
+button{
+    background-color: rgba(127, 151, 71, 0.979);
+}
